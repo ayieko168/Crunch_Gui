@@ -1,0 +1,1 @@
+Crunch can create a wordlist based on criteria you specify.  The output from crunch can be sent to the screen, file,  or  to  another  program. Crunch is a command-line utility used mostly in linux systems by pen-testers.
